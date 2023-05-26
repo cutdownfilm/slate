@@ -15,7 +15,7 @@ layout: default
 <ul>
 <ol><a href="https://helpfortrauma.com">Linda Gantt</a></ol>
 <ol><a href="https://DifferentDream.com">Jolene Philo</a></ol>
-<ol>Stella Shmool</ol>
+<ol><p>Stella Shmool</p></ol>
 <ol><a href="https://wendywilliamsauthor.org">Wendy Williams</a></ol>
 <ol><a href="https://survivinginfantsurgery.wordpress.com">Fred Vanderbom</a></ol>
 <ol>
