@@ -6,7 +6,7 @@ layout: default
 
 <hr>
 
-<strong>CUTDOWN</strong> is a documentary feature which reveals the unfathomable practice of infant surgery without anesthesia prior to 1987 and its long term psychologic effects on adults today.
+CUTDOWN is a documentary feature which reveals the unfathomable practice of infant surgery without anesthesia prior to 1987 and its long term psychologic effects on adults today.
 
 <hr>
 
