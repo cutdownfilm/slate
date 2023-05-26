@@ -2,122 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<div class="embedtool"><iframe src="https://www.youtube.com/embed/PX6LNHUX7zo" frameborder="0" allowfullscreen></iframe></div>
 
-[Link to another page](./another-page.html).
+<hr>
 
-There should be whitespace between paragraphs.
+CUTDOWN is a documentary feature which reveals the unfathomable practice of infant surgery without anesthesia prior to 1987 and its long term psychologic effects on adults today.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<hr>
 
-# Header 1
+<div>
+<ul>
+<ol><a href="https://helpfortrauma.com">Linda Gantt</a></ol>
+<ol><a href="https://DifferentDream.com">Jolene Philo</a></ol>
+<ol><a href="https://wendywilliamsauthor.org">Wendy Williams</a></ol>
+<ol><a href="https://survivinginfantsurgery.wordpress.com">Fred Vanderbom</a></ol>
+<ol>
+<p style="text-align: center;">
+produced & directed<br> 
+by Roey Shmool</p></ol>
+</ul>
+</div>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<hr>
 
-## Header 2
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdB9n9dSfE_fWjcOY8LVs7_imXiqMiBZoclCtWlHAQR7MUE2A/viewform?embedded=true" width="100%" height="950" frameborder="0" marginheight="0" marginwidth="0" >Loading…</iframe>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
