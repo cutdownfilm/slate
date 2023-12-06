@@ -7,7 +7,7 @@ layout: default
 <hr>
 
 
-CUTDOWN: Infant Surgery without Anesthesia depicts the common practice of infant surgery without anesthesia prior to 1987 and reveals the long-term effects of preverbal trauma. 
+CUTDOWN depicts the common practice of infant surgery without anesthesia prior to 1987 and reveals the long-term effects of preverbal trauma. 
 
 By following the stories of patients, parents and trauma-informed therapy, CUTDOWN delves deep into the human psyche to recover what's lost under a raw scalpel and over a century of secrecy.
 
