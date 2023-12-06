@@ -27,5 +27,6 @@ by Roey Shmool</p></ol>
 
 <hr>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdB9n9dSfE_fWjcOY8LVs7_imXiqMiBZoclCtWlHAQR7MUE2A/viewform?embedded=true" width="100%" height="950" frameborder="0" marginheight="0" marginwidth="0" >Loading…</iframe>
+<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdB9n9dSfE_fWjcOY8LVs7_imXiqMiBZoclCtWlHAQR7MUE2A/viewform?embedded=true" width="100%" height="950" frameborder="0" marginheight="0" marginwidth="0" >Loading…</iframe> -->
 
+<p>For all inquiries: cutdownfilm@gmail.com</p>
