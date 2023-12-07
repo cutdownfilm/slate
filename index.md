@@ -28,7 +28,7 @@ By following stories of patients, parents and trauma-informed therapy, CUTDOWN d
 <ol><a href="https://survivinginfantsurgery.wordpress.com">Fred Vanderbom</a></ol>
 <ol>
 <p style="text-align: center;">
-produced, directed & edited <br>by Roey Shmool</p></ol>
+produced, directed & edited<br>by Roey Shmool</p></ol>
 </ul>
 </div>
 
