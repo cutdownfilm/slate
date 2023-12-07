@@ -29,7 +29,7 @@ By following stories of patients, parents and trauma-informed therapy, CUTDOWN d
 <ol>
 <p style="text-align: center;">
 produced, directed & edited 
-<br>by<br> Roey Shmool</p></ol>
+<br>by Roey Shmool</p></ol>
 </ul>
 </div>
 
