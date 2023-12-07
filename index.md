@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h3 style="margin-top: -1rem; margin-bottom: 1rem; color: red">Watch Now:</h3>
+<h3 style="margin-top: -1rem; margin-bottom: 1rem; color: red; font-style: italic">Watch Now:</h3>
 
 <div class="embedtool"><iframe src="https://www.youtube.com/embed/PX6LNHUX7zo" frameborder="0" allowfullscreen></iframe></div>
 
