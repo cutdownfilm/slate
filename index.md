@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h3>Watch Now:</h3>
+<h3 style="padding: -1rem">Watch Now:</h3>
 
 <div class="embedtool"><iframe src="https://www.youtube.com/embed/PX6LNHUX7zo" frameborder="0" allowfullscreen></iframe></div>
 
