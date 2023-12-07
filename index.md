@@ -37,4 +37,4 @@ by Roey Shmool</p></ol>
 
 <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdB9n9dSfE_fWjcOY8LVs7_imXiqMiBZoclCtWlHAQR7MUE2A/viewform?embedded=true" width="100%" height="950" frameborder="0" marginheight="0" marginwidth="0" >Loading…</iframe> -->
 
-<p><span style="font-weight: bold;">For all inquiries:</span> cutdownfilm@gmail.com</p>
+<p style="text-align: center"><span style="font-weight: bold;">For all inquiries:</span> cutdownfilm@gmail.com</p>
