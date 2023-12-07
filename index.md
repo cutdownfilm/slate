@@ -11,7 +11,7 @@ layout: default
 
 <span style="color: red">CUTDOWN</span> (58 min) depicts the common practice of infant surgery without anesthesia prior to 1987 and reveals the long-term effects of preverbal trauma. 
 
-By following stories of patients, parents and trauma-informed therapy, CUTDOWN delves deep into the human psyche to recover what's lost under a raw scalpel and over a century of secrecy.
+By following stories of patients, parents and trauma-informed therapy, <span style="color: red">CUTDOWN</span> delves deep into the human psyche to recover what's lost under a raw scalpel and over a century of secrecy.
 
 
 <!-- CUTDOWN is a documentary feature which reveals the unfathomable practice of infant surgery without anesthesia prior to 1987 and its long term psychologic effects on adults today. -->
