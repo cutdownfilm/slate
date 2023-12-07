@@ -19,7 +19,7 @@ By following stories of patients, parents and trauma-informed therapy, CUTDOWN d
 <hr>
 
 <div>
-<h3 style="padding: 1rem">featuring:</h3>
+<h3 style="padding: 1rem; font-style: italic" >featuring:</h3>
 <ul>
 <ol><a href="https://helpfortrauma.com">Linda Gantt</a></ol>
 <ol><a href="https://DifferentDream.com">Jolene Philo</a></ol>
