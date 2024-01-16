@@ -2,6 +2,18 @@
 
 <!-- Setup Google Analytics -->
 <!-- {% include head-custom-google-analytics.html %} -->
+{% if site.google_analytics %}
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4FBJ65PHG5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4FBJ65PHG5');
+</script>
+
+{% endif %}
 
 <!-- You can set your favicon here -->
 <!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
